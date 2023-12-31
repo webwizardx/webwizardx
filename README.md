@@ -22,7 +22,9 @@ In my current role, I have consistently demonstrated my ability to meet tight de
 ### Find me around the web 🌎:
 
 -   💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/webwizardx/">LinkedIn</a>>
+-   💼 Contacting me on my <a href="https://webwizard.vercel.app">website</a>
 
 ---
 
 ⭐️ From [webwizardx](https://github.com/webwizardx)
+
